@@ -1652,12 +1652,12 @@
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
-                <target>Load Average</target>
+                <target>Średnie obciążenie</target>
             </trans-unit>
             <!-- Translate Me Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
-                <target>Remote Backup</target>
+                <target>Zdalna kopia zapasowa</target>
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
